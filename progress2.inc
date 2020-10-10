@@ -10,9 +10,9 @@
 #define _progress2_included
 
 #include <a_samp>
-#include <YSI\YSI_Data\y_iterate>
+#include <YSI_Data\y_iterate>
 
-#include <YSI\YSI_Coding\y_hooks>
+#include <YSI_Coding\y_hooks>
 #include <logger>
 
 #define MAX_PLAYER_BARS (_:MAX_PLAYER_TEXT_DRAWS / 3)
