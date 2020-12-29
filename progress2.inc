@@ -193,7 +193,6 @@ stock SetPlayerProgressBarValue(playerid, barid, Float:value)
 		}
 	}
 	if(IsPlayerProgressBarVisible(playerid, barid)) ShowPlayerProgressBar(playerid, barid);
-	ShowPlayerProgressBar(playerid, barid);
 	return 1;
 }
 stock GetPlayerProgressBarDirection(playerid, barid)
